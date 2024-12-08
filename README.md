@@ -53,5 +53,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [corybantes](https://www.your-site.com)
 - Frontend Mentor - [@corybantes](https://www.frontendmentor.io/profile/corybantes)
